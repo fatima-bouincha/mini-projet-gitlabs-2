@@ -6,8 +6,8 @@ stages:
 variables:
   IMAGE_NAME: 'mini_projet_gitlab'
   IMAGE_TAG: 'v1'
-  DOCKER_USERNAME: 'ulristeve'
-  DOCKER_PASSWORD: 'Cloud1+2'
+  DOCKER_USERNAME: 'bouinchafatima'
+  DOCKER_PASSWORD: 'Cloud1+2fatima'
   HOST_PORT: 80
   CONTAINER_PORT: 80
   SERVER_USERNAME: 'ubuntu'
