@@ -9,3 +9,4 @@ RUN rm -rf /usr/share/nginx/html/* \
     && git clone https://github.com/diranetafen/static-website-example.git /usr/share/nginx/html/
 EXPOSE 80
 ENTRYPOINT ["/usr/sbin/nginx", "-g", "daemon off;"]
+
